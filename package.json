@@ -1,0 +1,19 @@
+{
+  "name": "webhook-whatsapp-api",
+  "version": "1.0.0",
+  "description": "Webhook mínimo en Express para recibir eventos de la WhatsApp Cloud API (verificación GET + recepción POST)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "webhook",
+    "meta",
+    "express"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
